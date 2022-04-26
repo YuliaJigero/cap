@@ -24,3 +24,12 @@ print("test")
 
 ##
 ![Flows](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg)
+
+
+##
+*Курсив* 
+_Курсив_ 
+**Жирный** 
+__Жирный__ 
+***Жирный курсив*** 
+___Жирный курсив___
