@@ -12,6 +12,6 @@
 
 ## 
 `text`
-\\\python
+```python
 print("test")
-\\\
+```
