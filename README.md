@@ -23,4 +23,4 @@ print("test")
 
 
 ##
-![mountains](/https://www.imgonline.com.ua/examples/bee-on-daisy.jpg")
+![mountains](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg")
