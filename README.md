@@ -8,3 +8,10 @@
 
 ### git перед работой 
 1. pull
+
+
+## 
+`text`
+\\\python
+print("test")
+\\\
